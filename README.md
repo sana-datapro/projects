@@ -1,5 +1,5 @@
 # projects
-CoinMarketAutomatingAPI Extraction
+Project1: CoinMarketAutomatingAPI Extraction
 
 Overview
 This Jupyter notebook automates the extraction of cryptocurrency market data using a public API. It allows users to retrieve real-time data such as coin prices, market capitalization, and trading volume for different cryptocurrencies. This project is aimed at simplifying the process of market data collection for analysis or integration into other applications.
@@ -27,6 +27,8 @@ Usage
 
 License
 This project is licensed under the MIT License.
+
+Project2: 
 
 Contact
 For inquiries, feel free to contact sabdallah@my365.bellevue.edu
