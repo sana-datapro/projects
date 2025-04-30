@@ -2,19 +2,20 @@
 
 ## Overview:
 
-### Project1: Predicting houses ‘prices
+### Project1: Vehicle CO2 Emissions Analysis
 
-In this project, I applied Principal Component Analysis (PCA) for dimensionality reduction and utilized a logistic regression model to predict housing prices based on various features.
+Vehicles are a significant source of CO₂ emissions in the environment. In this analysis, I conducted an exploratory data analysis and implemented a multiple linear regression model to assess the extent to which various features influence CO₂ emissions.
 
 
 ### Project2: Predicting Renewable energy consumption
 
+The use of renewable energy has increased over the years, driven by factors such as political policies, environmental concerns, public health considerations, and economic incentives.
 In this project, I analyzed energy consumption patterns and developed forecasts for future usage using ARIMA and SARIMA models.
 
 
-### Project3: Fuel Efficiency Prediction
+### Project3: Weather Forecasting Application
 
-n this analysis, I applied linear regression to predict vehicle fuel efficiency, measured in miles per gallon, while elucidating the impact of various features on this outcome.
+This project was an opportunity for me to create an application that predicts the weather condition with just using zip code or city, using the free open weather map platform.
 
 
 ### Project4: Sales Time Series Modeling
