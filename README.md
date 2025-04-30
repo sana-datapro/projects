@@ -46,7 +46,8 @@ In this project, I implemented an automated process to extract cryptocurrency ma
 ## Installation
 
 Clone this repository:
-git clone https://github.com/SanaCodin87/projects.git
+git clone https://github.com/sana-dataAnalyst/projects.git
+
 
 Navigate to the project directory:
 cd projects
