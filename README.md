@@ -43,7 +43,7 @@ In this analysis, I performed comprehensive data cleaning, exploration and prepr
 In this project, I implemented an automated process to extract cryptocurrency market data using an API.
 
 
-### 9-Project9: Spam Emails Detection
+### Project9: Spam Emails Detection
 
 Receiving spams whether through emails, messages or modern channels is a huge challenge for individuals and organizations. This project was an opportunity for me to implement the random forest classifier to effectively classify emails into spams or not spams. 
 
