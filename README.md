@@ -48,6 +48,10 @@ In this project, I implemented an automated process to extract cryptocurrency ma
 Receiving spams whether through emails, messages or modern channels is a huge challenge for individuals and organizations. This project was an opportunity for me to implement the random forest classifier to effectively classify emails into spams or not spams. 
 
 
+### Project 10: Surface Temperature Forecasting
+
+In recent decades, global warming has led to significant climate change, impacting ecosystems worldwide and contributing to increased occurrences of wildfires, ice melting, and flooding. This project aims to analyze temperature trends and develop predictive models to forecast temperature changes over the next ten years. The goal is to provide data-driven insights that can support informed decision-making for climate adaptation and mitigation strategies.
+
 
 ## Installation
 
