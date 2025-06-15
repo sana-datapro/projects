@@ -3,7 +3,7 @@
 ## Overview:
 
 
-## A- REGRESSION:
+### A- REGRESSION:
 
 ### Vehicle CO2 Emissions Analysis
 
@@ -11,7 +11,7 @@ Vehicles are a significant source of CO₂ emissions in the environment. In this
 
 
 
-## B-CLASSIFICATION
+### B-CLASSIFICATION
 
 ### Customers Segmentation
 
@@ -31,16 +31,16 @@ Receiving spams whether through emails, messages or modern channels is a huge ch
 
 
 
-## C- TIME SERIES ANALYSIS
+### C- TIME SERIES ANALYSIS
+
+### Sales Time Series Modeling
+
+In this analysis, I systematically prepared the dataset and conducted a comparative evaluation of the Holt-Winters and SARIMAX models for sales forecasting.
 
 ### Predicting Renewable energy consumption
 
 The use of renewable energy has increased over the years, driven by factors such as political policies, environmental concerns, public health considerations, and economic incentives.
 In this project, I analyzed energy consumption patterns and developed forecasts for future usage using ARIMA and SARIMA models.
-
-### Sales Time Series Modeling
-
-In this analysis, I systematically prepared the dataset and conducted a comparative evaluation of the Holt-Winters and SARIMAX models for sales forecasting.
 
 ### Surface Temperature Forecasting
 
@@ -48,13 +48,13 @@ In recent decades, global warming has led to significant climate change, impacti
 
 
 
-## D- APPLICATION
+### D- APPLICATION
 
 ### Weather Forecasting Application
 
 This project was an opportunity for me to create an application that predicts the weather condition with just using zip code or city, using the free open weather map platform.
 
-## E- WEB SCRIPTING: 
+### E- WEB SCRIPTING: 
 
 ### Coin Market Automating API
 
