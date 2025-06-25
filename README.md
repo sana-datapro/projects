@@ -19,7 +19,7 @@ This project presents an excellent opportunity to demonstrate my ability to appl
 
 ### Movie reviews Sentiment Analysis
 
-In this project, I utilized the TextBlob library to perform sentiment classification on movie reviews and evaluated its performance in comparison to random guessing.
+In this project, I utilized the TextBlob and Vader sentiment analysers to perform sentiment classification on movie reviews and evaluated their performance in comparison to random guessing.
 
 ### Healthcare fraud detection
 
