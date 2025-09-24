@@ -3,13 +3,7 @@
 ## Overview:
 
 
-### A- REGRESSION:
-
-
-
-
-
-### B-CLASSIFICATION
+### A-CLASSIFICATION
 
 ### Customers Segmentation
 
@@ -25,12 +19,17 @@ Receiving spams whether through emails, messages or modern channels is a huge ch
 
 
 
-### C- TIME SERIES ANALYSIS
+### B- TIME SERIES ANALYSIS
 
 ### Predicting Renewable energy consumption
 
 The use of renewable energy has increased over the years, driven by factors such as political policies, environmental concerns, public health considerations, and economic incentives.
 In this project, I analyzed renewable energy consumption patterns and developed forecasts for future usage using SARIMA model.
+
+
+### C- Movies Recommender System
+
+Developing a program that recommends the top 10 highest-rated movies is essential for enhancing user experience and driving greater profitability for companies.
 
 
 ### D- APPLICATION
