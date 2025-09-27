@@ -2,6 +2,12 @@
 
 ## Overview:
 
+### A-REGRESSION
+
+### Predicting Houses Prices
+
+In real estate, fair and consistent pricing is crucial for buyers, sellers, banks, and policymakers. Using multiple features ensures that valuations are data-driven rather than subjective and accurate predictions help homeowners decide when to sell, buyers understand affordability, banks assess mortgage risks, and investors evaluate opportunities.
+
 
 ### A-CLASSIFICATION
 
@@ -17,7 +23,7 @@ In this project, I utilized the TextBlob and Vader sentiment analysers to perfor
 
 Receiving spams whether through emails, messages or modern channels is a huge challenge for individuals and organizations. This project was an opportunity for me to implement the random forest classifier to effectively classify emails into spams or not spams. 
 
-### Map Charting Student Misconceptions
+### Map Charting Student Math Misunderstandings
 
 In this project, I developed an NLP model (the DeBERTa v3 base model) to predict students'potential math misconceptions based on their explanations of open-ended responses. This will help teachers to identify easily and address students'incorrect thinking and certainly improve their math learning.
 
