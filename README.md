@@ -49,7 +49,7 @@ This project was an opportunity for me to create an application that predicts th
 
 ### E- WEB SCRIPTING: 
 
-### Coin Market Automating API
+### Automating Cryptocurrency Market Data Retrieval via API
 
 In this project, I implemented an automated process to extract cryptocurrency market data using an API.
 
@@ -57,7 +57,7 @@ In this project, I implemented an automated process to extract cryptocurrency ma
 ## Installation
 
 Clone this repository:
-git clone https://github.com/sana-dataScientist/projects.git
+git clone https://github.com/sana-datapro/projects.git
 
 
 Navigate to the project directory:
