@@ -53,6 +53,10 @@ This project was an opportunity for me to create an application that predicts th
 
 In this project, I implemented an automated process to extract cryptocurrency market data using an API.
 
+## F- Data Cleaning and Exploration in SQL
+
+In this project I used MySQL to clean and explore global employees layoffs from COVID-19 to 2025.
+
 
 ## Installation
 
