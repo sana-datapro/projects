@@ -53,9 +53,13 @@ This project was an opportunity for me to create an application that predicts th
 
 In this project, I implemented an automated process to extract cryptocurrency market data using an API.
 
-## F- Data Cleaning and Exploration in SQL
+### F- Data Cleaning and Exploration in SQL
 
 In this project I used MySQL to clean and explore global employees layoffs from COVID-19 to 2025.
+
+### G- Coffee Sales Dashboard
+
+I Collected, cleaned, and analyzed coffee sales data from the USA, UK, and Ireland using Excel. Built an interactive dashboard to visualize sales trends over time, leveraging advanced functions like XLOOKUP and INDEX for data integration.
 
 
 ## Installation
