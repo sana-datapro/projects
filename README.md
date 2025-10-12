@@ -57,9 +57,9 @@ In this project, I implemented an automated process to extract cryptocurrency ma
 
 In this project I used MySQL to clean and explore global employees layoffs from COVID-19 to 2025.
 
-### G- Coffee Sales Dashboard
+### G- Dashboards
 
-I Collected, cleaned, and analyzed coffee sales data from the USA, UK, and Ireland using Excel. Built an interactive dashboard to visualize sales trends over time, leveraging advanced functions like XLOOKUP and INDEX for data integration.
+I included here three dashboards created using Power BI.
 
 
 ## Installation
