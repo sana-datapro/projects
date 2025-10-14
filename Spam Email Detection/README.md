@@ -1,6 +1,9 @@
 ## Spam Detection Using Random Forest Classifier
 This project focuses on using the Random Forest algorithm to accurately distinguish between spam and non-spam emails. This model is robust and not sensitive to multidimensionality, multicollinearity, class imbalance and outliers.
 
+## Dataset
+The dataset was sourced from the the UCI Machine Learning Repository (https://archive.ics.uci.edu/) and it exists in Kaggle platform.
+
 ## Tools Used
 Python
 
