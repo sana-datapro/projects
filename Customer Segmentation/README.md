@@ -1,6 +1,9 @@
 ## Customers Segmentation using K-Means Algorithm
 This project provides an opportunity to showcase my ability to apply the K-Means clustering algorithm to segment a retail company's customers into meaningful and actionable groups. Based on the clustering results, I developed targeted recommendations to help stakeholders take informative decisions.
 
+## Dataset
+The data was sourced from the open data platform Kaggle (www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
+
 ## Tools Used
 PowerPoint, Python
 
