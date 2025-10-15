@@ -1,7 +1,4 @@
-## Reports/Dasboards
-These reports and dashboards 
 
-## Tools used
-Power BI, Excel
+This folder includes Power BI and Excel reports and dashboards.
 
-## Key Insights
+
