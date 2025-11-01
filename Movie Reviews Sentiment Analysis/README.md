@@ -8,4 +8,4 @@ Classified movie reviews based on user sentiment using two popular natural langu
 Python
 
 ## Key Insights
-The Vader sentiment analyser is performing slightly better than the TexBlob sentiment analyser. 
+The Vader sentiment analyser is performing slightly better than the TexBlob sentiment analyser. This will help studios and platforms to measure the public opinion about a movie and so understand if it was well-receved or not.
