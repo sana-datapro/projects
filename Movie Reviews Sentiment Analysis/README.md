@@ -1,8 +1,11 @@
-# Movie reviews Classification
+## Problem
+Manually analysing thousands of movie reviews to understand the audience sentiment is time-consuming and not efficient. A statistical sentiment analysis technique will helps automatically to categorize movie reviews as positive, negative or neutral.
+
+## Method
 Classified movie reviews based on user sentiment using two popular natural language processing tools: VADER (Valence Aware Dictionary and sEntiment Reasoner) and TextBlob. Both are rule-based sentiment analyzers designed to interpret the polarity of text data. 
 
 ## Tools Used
 Python
 
 ## Key Insights
-The Vader sentiment analyser is performing slightly better than the TexBlob sentiment analyser, and both of them are fitting perfectly with the movie reviews data.
+The Vader sentiment analyser is performing slightly better than the TexBlob sentiment analyser. 
