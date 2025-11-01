@@ -1,5 +1,8 @@
-## Predicting Houses Prices using Linear Regression Algorithm
-Predicted house prices using multiple features, including area, neighborhood, year built, heating, electrical systems, and several others. 
+## Problem Definition
+Real estate agents and sellers often struggle to set accurate home prices due to fluctuating market conditions. Incorrect pricing can lead to properties staying on the market too long or selling below their true value. Predicting house prices helps determine the optimal listing price, understand market trends, and achieve faster, more profitable sales.
+
+## Objective 
+Predicted house prices using Linear Regression Algorithm based on multiple features, including area, neighborhood, year built, heating, electrical systems, and several others. 
 
 ## Tools Used
 Python (pandas, sklearn, standard scaling & dimensionality reduction using PCA used for better performance)
