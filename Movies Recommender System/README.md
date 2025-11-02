@@ -1,5 +1,8 @@
+## Problem
+With thousands of movies available across streaming platforms, users often struggle to find films that match their personal tastes. Manually searching through large catalogs is time-consuming and overwhelming.
+A movie recommender system addresses this problem by automatically suggesting movies based on users’ preferences and similarities among movies.
 
-## Building a Movies Recommender System
+## Method
 Created a program that recommends the 10 mostly rated movies to the user.
 
 ## Tools Used
