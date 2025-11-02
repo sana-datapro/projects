@@ -5,18 +5,18 @@ The data availability is from when COVID-19 was declared as a pandemic (i.e. 11 
 
 ## Steps in Data Cleaning
 
-- check for duplicates and remove any
-- standardize data and fix errors
-- check for missing data and handle them
-- remove any columns and rows that are not necessary 
+- Check for duplicates and remove any
+- Standardize data and fix errors
+- Check for missing data and handle them
+- Remove any columns and rows that are not necessary 
 
 ## Steps in Data Exploration
 
-- Determine the maximum of total layoffs in a single day and Look at Percentage to see how big these layoffs were.
-- Determine Which companies had 100 percent of they company laid off and Order by funds_raised to see how big some of these companies were.
-- Find the Companies with the most Total Layoffs
-- Find contries and locations with the most total layoffs
-- look at the total layoffs in the past 3 years
+- Determine the maximum of total layoffs in a single day and Look at Percentages to see how big these layoffs were.
+- Determine Which companies had 100 percent of their employees laid off and Order by funds raised to see how big some of these companies were.
+- Find the Companies with the maximum Total Layoffs.
+- Find countries and locations with the maximum total layoffs.
+- Look at the total layoffs in the past 3 years.
 - Find indutries and stages associated with more total layoffs.
 - Rinking companies according to their layoffs'number.
 - Do a Rolling of Total Layoffs Per Month.
