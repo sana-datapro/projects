@@ -1,5 +1,8 @@
-## Amyotrophic Lateral Sclerosis
-Used Machine learning to classify patients as either affected by ALS or not based on multiple clinical and physiological features. That certainly may support early detection and improve understanding of the disease. 
+## Problem
+Amyotrophic Lateral Sclerosis (ALS) is a complex and heterogeneous neurodegenerative disease that affects patients differently in terms of symptoms, progression rate, and response to treatment. This variability makes it difficult for clinicians and researchers to design effective, personalized treatment plans or to predict disease progression accurately.
+
+## Method
+Clustering ALS patients with similar clinical features, genetic markers, or progression patterns. By identifying these hidden subgroups, researchers and healthcare providers can gain deeper insights into disease mechanisms and tailor interventions to specific patient profiles.
 
 ## Tools used
 Python
