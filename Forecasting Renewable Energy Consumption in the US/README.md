@@ -1,6 +1,8 @@
-## Forecasting Renewable Energy Consumption in the US
-The use of energy fuels carries significant environmental, health, economic, and political consequences. These challenges highlight the need to transition toward cleaner and more sustainable energy sources such as wind, solar, biomass, and biodiesel. However, it is equally important to anticipate future energy demands to ensure effective energy planning and optimal resource allocation.
-So, in this project, we Analyzed trends in renewable energy consumption in the US over time from 1973 to 2024, and across various sectors. Then, we tried to implement the Seasonal AutoRegressive Integrated Moving Average model (SARIMA) for future consumption prediction. 
+## Problem
+The use of energy fuels carries significant environmental, health, economic, and political consequences. These challenges highlight the need to transition toward cleaner and more sustainable energy sources such as wind, solar, biomass, and biodiesel. However, it is equally important to anticipate future energy demands to ensure effective energy planning and optimal resource allocation. 
+
+## Method
+In this project, we Analyzed trends in renewable energy consumption in the US over time from 1973 to 2024, and across various sectors. Then, we tried to implement the Seasonal AutoRegressive Integrated Moving Average model (SARIMA) for acual and future consumption prediction.
 
 ## Dataset
 The data was sourced from the U.S. Energy Information Administration.
