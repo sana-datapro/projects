@@ -3,8 +3,8 @@ Businesses often deal with a large and diverse customer base where each customer
 Grouping customers into distinct segments based on shared characteristics such as demographics, purchasing history, or spending habits helps businesses understand their customers better and make data-driven decisions.
 
 ## Method
--Applied the K-Means clustering algorithm to segment a retail company's customers into meaningful and actionable groups. 
--Developed targeted recommendations to help stakeholders take informative decisions.
+- Applied the K-Means clustering algorithm to segment a retail company's customers into meaningful and actionable groups. 
+- Developed targeted recommendations to help stakeholders take informative decisions.
 
 ## Dataset
 The data was sourced from the open data platform Kaggle (www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
