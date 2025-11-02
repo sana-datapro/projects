@@ -14,6 +14,7 @@ PowerPoint, Python
 
 ## Key Insights
 The K-Means clustering algorithm helped to segment the customers into four clusters based on their spending patterns and their demographic attributes:
+
       -  Young non parents with moderate spending
       -  Adult non-parents with low spending 
       -  Adult non-parents with high spending
