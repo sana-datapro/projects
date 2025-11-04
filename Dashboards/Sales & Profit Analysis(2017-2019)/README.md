@@ -1,5 +1,5 @@
-## Project Title
-Sales and Profit Analysis (2017–2019)
+## Problem
+The company lacked clear visibility into its sales and profits in 2019 compared to previous years. Without a centralized system to track and analyze sales data across customers, channels, and regions, management could not identify where or why performance could drop or increase. This project was developed to analyse sales trends through channels and regions, and provide actionable insights to support data-driven decision-making
 
 ## Tools used
 Power BI
