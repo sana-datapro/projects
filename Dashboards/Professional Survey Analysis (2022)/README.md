@@ -1,5 +1,8 @@
-## Title
-Professional Survey Analysis (2022)
+## Problem 
+Despite the rapid growth of the data industry, there is limited visibility into the demographics, career paths, skills, and compensation trends of professionals working in the field. Organizations, educators, and policymakers lack a unified view of how individuals enter, grow, and are compensated in data-related roles across different regions.
+
+## Method
+This project addresses the problem by analyzing and visualizing survey responses from 630 data professionals, providing insights into career transitions, education backgrounds, skill proficiencies, work satisfaction, and salary disparities. The interactive dashboard enables stakeholders to better understand workforce diversity, identify skill gaps, and design initiatives to improve career accessibility, retention, and equitable compensation in the data profession.
 
 ## Tools Used
 Power BI
