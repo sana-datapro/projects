@@ -13,7 +13,7 @@ Python
 - A long-term increase in disaster declarations from 1953 to 2023. Major spikes around 2005, in 2012 and in 2020.
 - Disasters activity peaks in March and September, while the quietest months are November and December. The remaining months — January, February, April, May, June, July, August, and October — show moderate levels of disaster declarations.
 - Texas is the most disaster-impacted state in the dataset. Other states with high program activity. Central and northern states show moderate FEMA activity. Western states and Small-population and island jurisdictions show lower declaration counts.
-- Disaster types diverse across the U.S. Severe storms, hurricanes, and floods are the most frequent hazards , followed by Biological disasters. Then come the wildfires, Tornadoes, snowstorms, freezing events with moderate declaration levels. Rarer declarations include coastal storms, earthquakes, drought, volcanic eruptions, and typhoons.
+- Disaster types diverse across the U.S. Severe storms, hurricanes, and floods are the most frequent hazards. Then come the wildfires, Tornadoes, snowstorms, freezing events with moderate declaration levels. Rarer declarations include coastal storms, earthquakes, drought, volcanic eruptions, and typhoons.
 - High demand for Public Assistance (PA) and hazard mitigation efforts. 
 
 ## Recommendations
