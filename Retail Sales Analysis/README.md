@@ -1,5 +1,5 @@
 
-# Data Visualisation: Empowering Business with Effective Insights (Virtual Internship)
+## Data Visualisation: Empowering Business with Effective Insights (Virtual Internship)
 
 ## Objective of the analysis
 I am going to walk you through insights from transactional retail data to answer CEO & CMO questions about revenue trends, top revenue generating countries and customers, and geographic demand to support forecasting, customer targeting and international expansion decisions.
