@@ -10,19 +10,17 @@ The dataset summarizes FEMA disaster declarations from 1953 to 2023. It is sourc
 Python
 
 ## Key Findings 
-- A long-term increase in disaster declarations from 1953 to 2023. Major spikes around 2005, in 2012 and in 2020.
-- Disasters activity peaks in March and September, while the quietest months are November and December. The remaining months — January, February, April, May, June, July, August, and October — show moderate levels of disaster declarations.
-- Texas is the most disaster-impacted state in the dataset. Other states with high program activity. Central and northern states show moderate FEMA activity. Western states and Small-population and island jurisdictions show lower declaration counts.
-- Disaster types diverse across the U.S. Severe storms, hurricanes, and floods are the most frequent hazards. Then come the wildfires, Tornadoes, snowstorms, freezing events with moderate declaration levels. Rarer declarations include coastal storms, earthquakes, drought, volcanic eruptions, and typhoons.
-- High demand for Public Assistance (PA) and hazard mitigation efforts. 
+- A long-term increase in disaster declarations from 1953 to 2023. Major spikes around 2005, in 2012 and in 2020 (COVID19).
+- Disasters activity peaks in March and September, while the quietest months are November and December. The remaining months — January, February, April, May, June, July, August, and October — show moderate totals.
+- Texas is the most disaster-impacted state. Kentucky (KY), Missouri (MO), Oklahoma (OK) also rank high. All the other states have moderate or low disaster activity declared.
+- Disaster types are diverse across the U.S. Severe storms, hurricanes, and floods are the most frequent. Then come the wildfires, Tornadoes, snowstorms, freezing events with moderate declaration levels. Rarer declarations include coastal storms, earthquakes, drought, volcanic eruptions, and typhoons.
+- High demand for Public Assistance (PA) and hazard mitigation (HM) efforts. 
 
 ## Recommendations
 To strengthen disaster response and preparedness:
 
-1. Prioritize additional funding and resources for high-risk states
-2. Optimize Public Assistance (PA) delivery
-3. Strengthen Hazard Mitigation (HM) investments in the most vulnerable hazard zones
-4. Prepare targeted seasonal readiness plans
-5. Improve state-level coordination, especially where federal declarations are lower
-6. Review and enhance assistance for rural, small-population, and island territories
-7. Establish a long-term strategy for recurring hazards
+1. Prioritize additional funding and resources for high-risk states (more support for emergency training, infrastrure hardening & community resilience programs)
+2. Optimize PA delivery (modern assessment tools, expand pre-disaster planning with states) and strengthen HM investments in the most vulnerable hazard zones (funding, long-term risk reduction projects) to reduce future disaster federal spending & recovery time.
+4. Prepare targeted seasonal readiness plans before March and September (prepositioning ressources and increasing communication) to improve rapid response and reduce the impact of predictable seasonal hazards.
+5. Review and enhance assistance for low disaster activity states & territories to ensure equitable access to federal disaster support.
+6. Establish a long-term strategy for recurring hazards (multi-year resilience planning, using historical data to create data-driven risk reduction strategies)
